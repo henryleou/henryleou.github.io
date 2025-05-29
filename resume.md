@@ -34,9 +34,13 @@ Team: Data IMS, Pre-Certification (GCF/PTCRB NA Conformance)
 Aug 2024 – Present
 
 **UC Berkeley**  
-*B.A. in Data Science* 
+*B.A. in Data Science*  
+*Domain Emphasis: Applied Mathematics and Modeling*  
 Graduated: Dec 2019
-*B.A. in Applied Mathematics* 
+
+**UC Berkeley**  
+*B.A. in Applied Mathematics*  
+Concentration: Electrical Engineering & Computer Science  
 Graduated: Dec 2019
 
 ---
