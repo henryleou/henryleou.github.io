@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: Sample blog post to learn markdown tips
 subtitle: There's lots to learn!
@@ -97,4 +97,4 @@ If the above image is broken, then you'll need to follow the instructions [in th
 <details markdown="1">
 <summary>Click here!</summary>
 Here you can see an **expandable** section
-</details>
+</details> -->
