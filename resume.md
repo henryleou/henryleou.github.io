@@ -16,15 +16,22 @@ Senior Software Engineer
 NR 5G / 4G LTE Modem Cellular Protocol Software Engineer
 Modem Software Protocol Team
 Team: Data IMS, Pre-Certification (GCF/PTCRB NA Conformance)
-- Specialized in debugging upper-layer modem protocol issues for both 5G NR and LTE.
-- Strong understanding of IMS architecture and SIP call flow procedures (VoLTE/VoNR).
-- Hands-on experience with Access Stratum (L2) protocols such as PDCP and RLC.
-- Deep knowledge of 3GPP specifications for 4G and 5G systems.
-- Skilled in embedded software debugging, including crash triage and system analysis.
-- Familiar with TCP/IP stack, using Wireshark for packet tracing and tcpdump analysis.
-- Experience using Trace32 for RAM dump analysis and ADB logcat for Android devices.
-- Worked across IMS stack development and carrier pre-certification lab testing.
-- Developed Python automation scripts for iperf-based data throughput testing on Keysight 5G UXM using CPE devices.
+- Collaborated with PHY/RF engineering teams to analyze signal processing behavior in LTE/NR5G modem chains
+- Created and maintained backend test infrastructure on Linux using Keysight UXM and custom C and Python scripts to support continuous integration pipelines
+- Debugged modem protocol layers (PDCP, RLC, IMS) and resolved VoNR/VoWiFi/VoLTE call flow issues using QXDM, QCAT, tcpdump, and trace32 logs
+- Utilized Python and MATLAB for debugging modem audio paths and VoIP call audio issues specifically for analyzing RTP packets
+- Developed and maintained backend scripts for Linux-based testing infrastructure using Keysight UXM APIs and Qualcomm HW modules
+- Collaborated with hardware and PHY teams to validate signal chain performance; performed log parsing and large-scale data analysis in Python
+- Integrated modem testing into internal CI workflows for regression testing and log analysis
+- Proficient understanding in internet protocol such as TCP/IP and using Wireshark for tcpdump debugging
+- Proficient understanding of modem protocol NR5G and LTE PHY L1
+- Focused in debugging modem IMS VoIP such as VoLTE/VoWIFI/VoNR call related issues
+- Filed a patent IDF in enhancing emergency 911 call protocol
+- Participated in algorithm design and development of 3GPP VoIP call design and optimization
+- 4+ years of experience in North America operator conformance lab (VZW, TMO, ATT) test cases
+- 4+ years of experience in debugging PTCRB and GCF conformance test cases
+- 4+ experience in debugging call boxes such as R&S CMW 500 and Keysight UXM
+
 
 ---
 
