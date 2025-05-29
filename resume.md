@@ -43,4 +43,3 @@ Graduated: Dec 2019
 ---
 
 > 📄 *Download full resume as PDF [here](assets/henryleou_resume_2025_v2.pdf)*  
-(*Put your `resume.pdf` inside `/assets/` folder in the repo*)
