@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 ### 🧑‍💻 Henry Leou  
-Senior Software Engineer - Cellular ModemSW Protocol
+Senior Software Engineer
 [LinkedIn](https://linkedin.com/in/henryleou) | [GitHub](https://github.com/henryleou) | henryleou (at) berkeley (d0t) edu
 
 ---
@@ -34,17 +34,21 @@ Team: Data IMS, Pre-Certification (GCF/PTCRB NA Conformance)
 Aug 2024 – Present
 
 **UC Berkeley**  
-*B.A. in Data Science and Applied Mathematics*  
+*B.A. in Data Science* 
+Graduated: Dec 2019
+
+*B.A. in Applied Mathematics* 
 Graduated: Dec 2019
 
 ---
 
 ### 🛠️ Skills
-- **Languages**: Python, C, C++, Bash, Java
-- **Wireless**: LTE, 5G NR, Wi-Fi, IMS (VoLTE, VoNR, VoWiFi, VT, RCS, UT), PHY L1, MAC L2, RRC, NAS
-- **Tools**: Wireshark, trace32, QXDM, Git, JIRA, Wireshark, Jenkins CI/CD
+- **Languages**: Python, C, Java, R, SQL, MATLAB, Ruby on Rails, C++
+- **3GPP Wireless**: LTE, 5G NR, Wi-Fi, IMS (VoLTE, VoNR, VoWiFi, VT, RCS, UT), PHY L1, MAC L2, RRC, NAS
+- **Debugging Frameworks**: Wireshark, tcpdump, QXDM, QCAT, APEX, trace32, adb logcat, git, Jenkins (CI/CD), pytest, unittest
+- **Machine Learning Libraries**: Pandas, NumPy, SciPy, Matplotlib, Scikit learn, Pytorch, OpenCV, TensorFlow
+- **Signal Processing**: FFT, Wavelet Transform, Bilateral Filtering, Quantization, PSNR Optimization, Image Processing
 - **Systems**: Embedded Linux, RTOS 
-- **Machine Learning**: Pytorch, Scikit-learn, TensorFlow
 
 ---
 
