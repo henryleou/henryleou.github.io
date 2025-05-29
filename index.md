@@ -1,17 +1,17 @@
 ---
 layout: home
 title: "Henry Leou"
-subtitle: "Software | Embedded | Wireless | AI"
+subtitle: "Software | Embedded | Cellular Wireless | AI/ML"
 ---
 
-Hi, I’m **Henry Leou**, a software and systems engineer with experience in embedded systems, wireless communications (LTE/5G/Wi-Fi/Bluetooth), and AI. I’ve worked on modem validation, firmware debugging, and signal processing at Qualcomm and am currently pursuing my MSCS at Georgia Tech (OMSCS).
+Hi, I’m **Henry Leou**, a senior software application engineer at Qualcomm. I am in modem cellular protocol team (4G LTE, NR5G) and specialize in IMS VoIP call such as VoLTE, VoNR, VoWiFi calling. I mainly worked on modem wireless validation, modem log analysis, 5G call box emulation, automation and tool development, RRC/PDCP debugging at Qualcomm. Currently, I am also pursuing my MSCS at Georgia Tech (OMSCS) as a part-time student.
 
 🔧 Check out my:
 
-- [Projects](/projects/)
+<!-- - [Projects](/projects/) -->
 - [Resume](/resume/)
 - [About Me](/aboutme/)
 
 ---
 
-> 📫 You can reach me at [henry.leou@gmail.com](mailto:henry.leou@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/henryleou)
+> 📫 Feel free to contact me for potential collaborations at [henryleou (at) berkeley (d0t) edu](mailto:henryleou@berkeley.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/henry-leou-746731146/)
