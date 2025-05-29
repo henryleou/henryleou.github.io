@@ -6,7 +6,7 @@ permalink: /resume/
 
 ### 🧑‍💻 Henry Leou  
 Senior Software Engineer
-[LinkedIn](https://linkedin.com/in/henryleou) | [GitHub](https://github.com/henryleou) | henryleou (at) berkeley (d0t) edu
+[LinkedIn](https://linkedin.com/in/henryleou) | [GitHub](https://github.com/henryleou) | [Email](henryleou@berkeley.edu)
 
 ---
 
