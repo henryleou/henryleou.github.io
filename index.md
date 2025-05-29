@@ -11,6 +11,10 @@ subtitle: "Software | Embedded | Cellular Wireless | AI/ML"
 
 Hi, I’m **Henry Leou**, a senior software application engineer at Qualcomm. I am in modem cellular protocol team (4G LTE, NR5G) and specialize in IMS VoIP call such as VoLTE, VoNR, VoWiFi calling. I mainly worked on modem wireless validation, modem log analysis, 5G call box emulation, automation and tool development, RRC/PDCP debugging at Qualcomm. Currently, I am also pursuing my MSCS at Georgia Tech (OMSCS) as a part-time student.
 
+<div style="clear: both;"></div>
+
+---
+
 🔧 Check out my:
 
 <!-- - [Projects](/projects/) -->
