@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 permalink: /aboutme/
 ---
-Modem Protocol Software Engineer @ Qualcomm.  
+Senior Software Engineer @ Qualcomm.  
 US Citizen - San Jose, CA resident.  
 NR 5G/4G LTE Modem Cellular Protocol Software Engineer (IMS, Upper layer protocol)  
 
