@@ -45,6 +45,7 @@ Graduated: Dec 2019
 - **Languages**: Python, C, Java, R, SQL, MATLAB, Ruby on Rails, C++
 - **3GPP Wireless**: LTE, 5G NR, Wi-Fi, IMS (VoLTE, VoNR, VoWiFi, VT, RCS, UT), PHY L1, MAC L2, RRC, NAS
 - **Debugging Frameworks**: Wireshark, tcpdump, QXDM, QCAT, APEX, trace32, adb logcat, git, Jenkins (CI/CD), pytest, unittest
+- **Developing Tools**: Git, Perforce, Source Insight, VSCode, Intellij, PyCharm 
 - **Machine Learning Libraries**: Pandas, NumPy, SciPy, Matplotlib, Scikit learn, Pytorch, OpenCV, TensorFlow
 - **Signal Processing**: FFT, Wavelet Transform, Bilateral Filtering, Quantization, PSNR Optimization, Image Processing
 - **Systems**: Embedded Linux, RTOS 
