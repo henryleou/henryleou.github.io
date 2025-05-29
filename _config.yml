@@ -1,6 +1,6 @@
 title: "Henry Leou"
 author: "Henry Leou"
-email: "henry.leou@gmail.com"  # Replace with your real email
+email: "henryleou@berkeley.com" 
 description: >
   Embedded Systems | AI | Cellular | C++ & Python | Qualcomm | Georgia Tech OMSCS
 
@@ -12,13 +12,13 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Resume: "resume"
-  Blog: "https://medium.com/@henryleou"
+  # Blog: "https://medium.com/@henryleou"
 
 # Social links
 social-network-links:
   github: henryleou
   linkedin: henryleou
-  email: henry.leou@gmail.com
+  email: henryleou@berkeley.com
 
 # Footer
 footer-links-active:
