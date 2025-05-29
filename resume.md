@@ -12,7 +12,8 @@ Senior Software Engineer
 
 ### 💼 Work Experience
 **Qualcomm** — *Senior Software Engineer, Cellular Modem Protocol Engineer*  
-*Santa Clara, CA / Taipei, Taiwan / Remote · 2021–Present*  
+*Remote · 2020 - Present*   
+<!-- *Santa Clara, CA / Taipei, Taiwan / Remote · 2020–Present* -->
 NR 5G / 4G LTE Modem Cellular Protocol Software Engineer
 Modem Software Protocol Team
 Team: Data IMS, Pre-Certification (GCF/PTCRB NA Conformance)
